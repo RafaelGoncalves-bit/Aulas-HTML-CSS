@@ -1,0 +1,65 @@
+
+
+header{
+    color: #fff;
+}
+
+.fundo-car{
+    background-color: black;
+    background-repeat: no-repeat;
+}
+
+.img-car{
+    
+    width: 100%;
+}
+
+.img-car2{
+    margin-left: 35%;
+    width: 100%;
+}
+
+.rodape{
+    padding: 10%;
+    background-color: #e1262d;
+}
+
+.titulo-rodape{
+
+    display: flex;
+}
+
+
+.titulo-2{
+    margin-left: 30%;
+}
+
+.img-rodape1000{
+    margin-bottom: 1%;
+    display: -webkit-inline-box;
+    margin-left: 1%;
+    padding-left: 3%;
+}
+
+.img-rodape10001{
+    margin-bottom: 1%;
+    margin-left: 80%;
+    display: contents;
+    margin-top: 1%;
+
+}
+
+.text-rodape{
+ font-family: Arial, Helvetica, sans-serif;
+ padding-right: 180%;
+ 
+}
+
+.conteudo-rodape{
+display: flex;
+}
+
+h2{
+    text-align: left;
+    padding-bottom: 5%;
+}
