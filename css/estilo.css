@@ -1,0 +1,43 @@
+.container2{
+    width: 100%;
+    padding-right: 0px;
+    padding-left: 0px;
+    margin-right: auto;
+    margin-left: auto;
+}
+.estilonavbar{
+    margin-left: 14%;
+    margin-right: 5%;
+}
+.textomain {
+    margin-bottom: 12%;
+    font-size: 60px;
+    font-family: 'Raleway', sans-serif;
+    letter-spacing: 100;
+    
+}
+.titulomain {
+    margin-bottom: 5%;
+    font-size: 60px;
+    font-family: 'Raleway', sans-serif;
+    letter-spacing: 100;
+    
+}
+.rodape {
+    padding-bottom: 1%;
+}
+.cornav{
+    color: #fff;
+}
+.textorodape {
+    margin-top: 1%;
+}
+.titulorodape {
+    color: #fff;
+    padding: 1%;
+    text-align: center;
+}
+.hrdiv {
+    border-top: 2px solid rgb(255, 255, 255);
+    width: 35%;
+}
