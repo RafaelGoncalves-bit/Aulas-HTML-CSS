@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+    <head>
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet"> 
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Formulário de contato - HTML puro</title>
+        </head>
+    <body class="bg-light p-4">
+
+        <div class="container">
+            <h2 class="mb-4">Formulário de Contato</h2>
+
+            <form>
+                <div class="mb-3">
+                    <label for="nome" class="form-label">Nome</label><br>
+                    <input type="text" class="form-control" id="nome" name="nome">
+                </div>
+
+                <div class="mb-3">
+                    <label for="email" class="form-label">Email</label><br>
+                    <input type="email" class="form-control" id="email" name="email">
+                </div>
+
+                <div class="mb-3">
+                    <label for="mensagem" class="form-label">Mensagem</label><br>
+                    <textarea class="form-control" id="mensagem" name="mensagem" rows="4"></textarea>
+                </div>
+                <button type="submit" class="btn btn-primary">Enviar</button>
+            </form>
+        </div>
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    </body>
+</html>
